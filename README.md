@@ -26,5 +26,3 @@ Some of the key insights from the analysis include:
 - **Mission Success Rates**: Insights on which countries or organizations have the highest success rates.
 - **Mission Types**: Overview of the common types of missions (e.g., satellite launches, manned missions, deep space exploration).
 - **Significant Contributors**: Identifying which countries or agencies are most active in space missions.
-
-## Repository Structure
